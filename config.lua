@@ -1,7 +1,7 @@
-Config = {}
+Config = {} -- ik rør dette
 
-Config.Webhook = "https://discord.com/api/webhooks/830546639659073617/skceOo_7GHEYdfQ72qeHnwzSVGY3Sh51OMzyrleI9DAxr86ziwy1SOO5-XFO69-70lxr"
+Config.Webhook = "WEBHOOK" -- Indset din webhook ind i ""
 
-Config.pNotify = true
+Config.pNotify = true -- Skriv true hvis du bruger pNotify
 
-Config.mythic_notify = false
+Config.mythic_notify = false -- Skriv true hvis du bruger mythic_notify
