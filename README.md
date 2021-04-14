@@ -10,3 +10,5 @@ Gå ind i config.lua / config og læs hvad der står
 
 ## Showcase
 ![](https://i.gyazo.com/1f73936b8c810d2249872d0e5026e951.png)
+
+![(https://i.gyazo.com/a3e90b44616cb5482193464fd00745c0.png)
