@@ -7,3 +7,6 @@ Skriv /report ingame så ville der poppe en box frem
 ## Installation
 
 Gå ind i config.lua / config og læs hvad der står
+
+## Showcase
+![alt text](http://url/to/img.png)
