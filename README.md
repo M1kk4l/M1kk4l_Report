@@ -9,4 +9,4 @@ Skriv /report ingame så ville der poppe en box frem
 Gå ind i config.lua / config og læs hvad der står
 
 ## Showcase
-![alt text](http://url/to/img.png)
+![](https://i.gyazo.com/1f73936b8c810d2249872d0e5026e951.png)
