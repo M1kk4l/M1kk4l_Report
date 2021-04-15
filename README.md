@@ -1,5 +1,5 @@
 # M1kk4l_Report
-Simpelt Report system til FiveM cfx.re
+Simpelt Report system til FiveM cfx.re Dette kan bruges til alle slags Frameworks!
 
 ## Hvordan bruger jeg det?
 Skriv /report ingame så ville der poppe en box frem
